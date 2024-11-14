@@ -1,5 +1,6 @@
 # belly-button-challenge
 Bootcamp Module 14 Challenge
+App Deployed to https://rhclark96.github.io/
 
 Throughout this challenge, I found a lot of obstacles and relied heavily on the help of the Xpert Learning Assitant to correct my code or point me in the correct direction of how to get started. 
 
